@@ -134,6 +134,14 @@ export const projects = [
     iconLists: ["/html.svg", "/css.svg", "/js.svg"],
     link: "https://elaborate-cajeta-9cd27f.netlify.app/",
   },
+  {
+    id: 9,
+    title: "ReelSeek: Easy movie searching at your fingertips.",
+    des: "A minimalist React app that utilizes the OMDb API to help you find your next favorite movie.",
+    img: "/p9.png",
+    iconLists: ["/js.svg", "/html.svg", "/css.svg", "/re.svg"],
+    link: "https://reelseek.netlify.app/",
+  },
 ];
 
 // export const testimonials = [
